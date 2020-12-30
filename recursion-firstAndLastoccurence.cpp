@@ -1,3 +1,5 @@
+// find first and last occurrance of given element in array using recursion 
+// time and space complexity O(n)
 #include<bits/stdc++.h>
 using namespace std;
 
